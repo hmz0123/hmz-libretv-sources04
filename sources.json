@@ -1,5 +1,5 @@
 {
-  "name": "LibreTV 自动源列表（2026-11-20 00:17 UTC 实测）",
+  "name": "LibreTV 自动源列表（2026-11-20 23:39 UTC 实测）",
   "version": 3,
   "sources": [
     {
@@ -10,6 +10,11 @@
     {
       "name": "360",
       "url": "https://360zy.com/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -25,6 +30,11 @@
     {
       "name": "最大",
       "url": "http://zuidazy.me/api.php/provide/vod/",
+      "isAdult": false
+    },
+    {
+      "name": "极速",
+      "url": "https://jszyapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
